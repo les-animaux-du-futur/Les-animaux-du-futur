@@ -1,0 +1,6 @@
+svg {
+  overflow: auto;
+}
+.buttonSmoothieInteract:hover {
+  background-color: transparent !important;
+}
